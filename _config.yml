@@ -1,19 +1,15 @@
-# Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
-
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 旅人小站
+subtitle: '人生很累，进来歇歇脚吧'
+description: '欢迎来到「旅人小站」——这里不是普通的驿站，而是一位背着键盘浪迹数字世界的旅人随手搭建的营地！'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: 一个旅人
+language: zh-cn
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://blog.ramboprogram.org
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -66,7 +62,7 @@ index_generator:
 
 # Category & Tag
 default_category: uncategorized
-category_map:
+category_map: 
 tag_map:
 
 # Metadata elements
