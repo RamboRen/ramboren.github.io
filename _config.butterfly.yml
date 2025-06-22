@@ -23,7 +23,6 @@ menu:
 #     Music: /music/ || fas fa-music
 #     Movie: /movies/ || fas fa-video
   首页: / || fas fa-home
-  
   分类: /categories/ || fas fa-folder-open
   标签: /tags/ || fas fa-tags
   归档: /archives/ || fas fa-archive
@@ -65,7 +64,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: https://avatars.githubusercontent.com/u/64053765?s=400&u=c4647d91986046a10fc4fb4cf842ce3d068cab7d&v=4
+  img: /img/avatar.png
   effect: false
 
 # Disable all banner images
