@@ -97,5 +97,6 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repo: 'https://github.com/RamboRen/ramboren.github.io'
+  type: git
+  repo: git@github.com:ramboren/ramboren.github.io.git
+  branch: main
