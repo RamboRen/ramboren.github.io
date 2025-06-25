@@ -1120,7 +1120,7 @@ CDN:
     # main_css:
     # mathjax:
     # medium_zoom:
-    # mermaid:
+    mermaid: https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
     # meting_js:
     # prismjs_autoloader:
     # prismjs_js:
